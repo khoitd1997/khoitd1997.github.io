@@ -444,6 +444,7 @@ body{
     }
 }
 
+/* change background here */
 ::-webkit-scrollbar {width:5px;height:5px;}
 ::-webkit-scrollbar-track {background:var(--bg-color);}
 ::-webkit-scrollbar-thumb {background:var(--text-color);}
