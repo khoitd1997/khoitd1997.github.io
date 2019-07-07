@@ -266,7 +266,17 @@ body{
     padding:4vh 0px !important;
 }
 
-#forks {
+#general {
+    margin:2vh 0px;
+    padding:4vh 0px !important;
+}
+
+#driver {
+    margin:2vh 0px;
+    padding:4vh 0px !important;
+}
+
+#contrib {
     margin:2vh 0px;
     padding:4vh 0px !important;
 }
