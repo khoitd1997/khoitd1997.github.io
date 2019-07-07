@@ -314,6 +314,8 @@ body{
 }
 
 .about_section {
+    height: 2.2em;
+    line-height: 1.1;
     font-size:18px;
     font-family: 'Questrial', sans-serif;
     margin:2vh 0px;
